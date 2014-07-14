@@ -1,0 +1,21 @@
+{
+  "name": "meep",
+  "version": "0.0.1",
+  "description": "A react.js based framework",
+  "main": "lib/index.js",
+  "author": "James Hollingworth",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jhollingworth/meep.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-mocha": "^0.4.11"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "envify": "^1.2.1",
+    "react": "^0.10.0"
+  }
+}
